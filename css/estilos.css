@@ -1,5 +1,5 @@
 body {
-    background-color: darkcyan;
+    background-color: black;
     color :red;
     text-align: center;
     font-family: 'Gill Sans';
@@ -43,6 +43,7 @@ body {
 
 #post 
 {
+    background: darkgray;
     padding: 1em;
 
 }
